@@ -1,0 +1,33 @@
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.71;
+  color: red;
+  font-style: normal;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1.5;
+}
